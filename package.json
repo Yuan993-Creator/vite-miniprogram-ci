@@ -1,6 +1,6 @@
 {
   "name": "vite-miniprogram-ci",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "A miniprogram CI plugin for Vite to execute commands after build",
   "type": "module",
   "main": "./dist/index.js",
@@ -59,6 +59,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/plugin-mini-ci"
+    "url": "https://github.com/Yuan993-Creator/vite-miniprogram-ci"
   }
 }
